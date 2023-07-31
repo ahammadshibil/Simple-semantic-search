@@ -36,6 +36,4 @@ All necessary dependencies are listed in the `requirements.txt` file. The core p
 ## License
 [MIT License](LICENSE)
 
----
 
-Make sure to adjust any other specific details or add sections as per the needs of your project. If you have a license (e.g., MIT), you can include a link to it as done above; otherwise, you can remove the License section.
