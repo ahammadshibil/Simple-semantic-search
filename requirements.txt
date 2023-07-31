@@ -1,0 +1,9 @@
+numpy
+openai
+requests
+PyMuPDF==1.18.14  # This is for the "fitz" library
+pathlib
+fastapi
+sklearn
+tensorflow-hub
+reportlab
